@@ -12,3 +12,4 @@ dependencies:
   - transformers=4.6.1
   - pip:
     - Dbias==0.1.5
+    - tf-keras==2.15.0
