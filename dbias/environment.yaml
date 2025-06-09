@@ -1,4 +1,4 @@
-name: bias
+name: bias_dbias
 channels:
   - conda-forge
 dependencies:
