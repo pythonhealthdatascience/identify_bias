@@ -1,0 +1,11 @@
+name: bias_likelihood
+channels:
+  - conda-forge
+dependencies:
+  - numpy=1.22.0
+  - pandas=1.4.0
+  - pip
+  - python=3.10.18
+  - scipy=1.10.0
+  - pip:
+    - tqdm==4.66.3
