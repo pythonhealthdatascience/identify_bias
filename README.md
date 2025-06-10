@@ -39,9 +39,29 @@ This will install [the model](https://huggingface.co/d4data/en_pipeline), which 
 
 <br>
 
-##
+## HolisticBias from Facebook
+
+https://github.com/facebookresearch/ResponsibleNLP
 
 ```
 conda env create --file likelihood_bias/environment.yaml
 conda activate bias_likelihood
 ```
+
+<br>
+
+## The Mammoth project
+
+https://mammoth-eu.github.io/mammoth-commons/
+
+<br>
+
+## BiasAlert
+
+https://arxiv.org/abs/2407.10241
+
+<br>
+
+## The DE-BIAS tool
+
+https://pro.europeana.eu/page/the-de-bias-tool
